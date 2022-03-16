@@ -1,0 +1,22 @@
+.form {
+    width: 100%;
+}
+
+.form form h1 {
+    text-align: center;
+}
+.form form input {
+    width: 60%;
+    font-size: 20px;
+    height: 30px;
+    margin-right: 5px;
+}
+.form form button {
+    font-size: 15px;
+    padding: 10px;
+    border: none;
+    background: none;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
